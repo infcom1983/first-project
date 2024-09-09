@@ -1,5 +1,5 @@
 public static void main(String[] args) {
     int i = 0; i < 3; i++;
-    String s = "Dhkhkwedfkewdff";
+    String s = "vvvvvvvvvvv";
     Double d = 4.3;
 }
